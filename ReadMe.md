@@ -7,7 +7,6 @@ External component libraries located [here](https://github.com/the-this-pointer/
 
 ###### TODO:
 
-- Redesign the enclosure based on updates on pcb.
 - Firmware for new PCB
 
 #### Images
