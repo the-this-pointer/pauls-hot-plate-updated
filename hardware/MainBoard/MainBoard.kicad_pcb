@@ -459,7 +459,7 @@
       (net 13 "/IO12") (pinfunction "Pin_4") (pintype "passive") (tstamp e1080fd4-0d89-4501-89d0-07237c492529))
     (pad "5" thru_hole oval (at 0 10.16) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 2 "GND") (pinfunction "Pin_5") (pintype "passive") (tstamp 1c5168a7-998d-422d-90db-7edf23933b2e))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x05_P2.54mm_Vertical.wrl"
+    (model "${THISPTR_LBR_DIR}/kicad-connector-pinheader-female-3d/Female_Header_1Row_P2.54_H8.5_straight.3dshapes/Female_Header_1x5_P2.54_H8.5_straight.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))

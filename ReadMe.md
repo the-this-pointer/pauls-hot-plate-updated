@@ -7,9 +7,8 @@ External component libraries located [here](https://github.com/the-this-pointer/
 
 ###### TODO:
 
-- Snap fit joints for the enclosure
+- Redesign the enclosure based on updates on pcb.
 - Firmware for new PCB
-- 3D model for the female pin header used for keypad on main board.
 
 #### Images
 
