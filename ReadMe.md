@@ -8,8 +8,12 @@ External component libraries located [here](https://github.com/the-this-pointer/
 ###### TODO:
 
 - Firmware for new PCB
+- Enclosure for new PCB
 
 #### Images
+
+The enclosure files and images are for revision `54e05cd389d`, the boards are changed afterwards and I will redesign enclosure.
+
 
 ![PCB](./images/board.PNG)
 ![3D Model](./images/board3d.PNG)
